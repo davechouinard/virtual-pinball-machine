@@ -1,7 +1,7 @@
 virtual-pinball-machine
 =======================
 
-Notes for a building a virtual pinball machine
+Notes for building a virtual pinball machine
 
 ### Software
 This section will cover installing the virtual pinball software system for Windows.
