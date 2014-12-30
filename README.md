@@ -9,14 +9,14 @@ Notes for building a virtual pinball machine running under the Windows 8 operati
 
 Visual Pinball is a free (for non-commercial use) pinball game engine and editor.  There is a nice community at vpforums.org writing tables and helping support this engine.
 
-Follow the VP installer guide for installation using the VPInstaller 1.0.3:
+Follow the VP installer guide for installation using the VPInstaller 1.0.3.
 
 http://www.vpforums.org/index.php?app=tutorials&article=1
 
 When updating to vpinball991 in Windows 8 you may encounter this error:
 >The program can't start bceause d3dx9_43.dll is missing from your computer.
 
-This is fixed by installing the DirectX End-User Runtime:
+This is fixed by installing the DirectX End-User Runtime.
 
 http://www.microsoft.com/en-us/download/details.aspx?id=35
 
@@ -44,7 +44,7 @@ http://www.vpforums.org/index.php?app=tutorials&article=136
 
 Direct Output Framework is a way to control LED boards and other hardware.  It works through the DirectB2S plugin interface.
 
-Download and install according to:
+Download and install according to the project page.
 
 http://directoutput.github.io/DirectOutput/
 
@@ -66,11 +66,19 @@ http://www.ultimarc.com/ipac1.html
 
 **PacLED64**
 
-The PacLED64 is an LED controller board and lets you connect LED lights.  The lights can be programmed in many different ways to interact with the game software so that lights activate at the correct times etc.
+The PacLED64 is an LED controller board and lets you connect LED lights.  The lights can be programmed in different ways and can interact with the game software so that lights activate at the correct times etc.
 
 http://www.ultimarc.com/pacled64.html
 
 Many people use an alternate board called LED-Wiz to control many different types of outputs such as solenoids, motors, lights etc. but for my simple set of LED buttons the PacLED64 seemed a simpler more purpose built solution.
+
+**Arcade Buttons**
+
+There are many choices for the buttons that users push for start, exit, launch ball etc.
+
+I chose the following buttons which have RGB LED's pre-wired for the PacLED64.
+
+http://www.ultimarc.com/ultralux.html
 
 **Flipper Buttons and Leaf Switches**
 
