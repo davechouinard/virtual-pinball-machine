@@ -32,6 +32,12 @@ http://www.pinballx.net
 
 Make sure to right click the icon and go into the properties and make sure 'run as administrator' is selected.
 
+For each table I decided to load:
+* wheel image
+* table audio
+* playfield image (S key while PinballX is active will take a screen shot of a running table)
+* backglass image
+
 **DirectB2S**
 
 DirectB2S is an animated backglass server.  It is also a requirement for Direct Output Framework to drive LED boards etc.
@@ -39,6 +45,8 @@ DirectB2S is an animated backglass server.  It is also a requirement for Direct 
 Download the zip and follow the install instructions.
 
 http://www.vpforums.org/index.php?app=tutorials&article=136
+
+I had problems with performance and had to go into each backglass 'S key' and make sure run in EXE mode was not active.
 
 **Direct Output Framework**
 
@@ -53,6 +61,18 @@ Generate *directoutputconfig20.ini* file for pacled64 support.
 That file can be generated here: http://configtool.vpuniverse.com/
 
 Place *directoutputconfig20.ini* inside the tables folder.
+
+**Windows Issues**
+
+I had an issue where Windows scheduled tasks were taking the PC out of sleep mode.  
+
+To disable:
+
+Windows key, type Power Options, press Enter
+
+Change plan settings link, Change advanced power settings
+
+Expand the Sleep section, expand the Allow wake timers section, set wake timers to Disabled
 
 
 
@@ -90,4 +110,44 @@ http://virtuapin.net/index.php?main_page=index&cPath=26
 
 
 ### Cabinet
-This section will cover building a pinball cabinet out of plywood.
+The Wood:
+
+Cabinet:
+* Front panel
+* Back panel
+* Left side panel
+* Right side panel
+* Bottom panel
+* Cross panel rear
+
+Backbox:
+* Left panel
+* Right panel
+* Bottom panel
+* Top panel
+* Back panel
+* Front panel
+
+The Hardware:
+
+* 4 table legs
+* 4 leg brackets
+* 8 leg bolts
+* 8 leg bolt nuts
+* 4 leg levelers
+* 4 leg leveler nuts
+* 2 plastic side channels for playfiled glass
+* 1 plastic rear channel for playfield glass
+* 2 stainless side rails
+* 1 lockdown bar reciever
+* 1 lockdown bar
+* 1 coin door
+* 1 coin door service buttons
+* 1 playfield glass (tempered)
+* 2 backbox hinges
+* 2 hinge nuts
+* 2 hinge nut recievers
+* 1 lock assembly for backbox and cabinet rear
+* 4 felt protectors between cabinet and legs
+* box of #10, #8, #6, 3/4" screws
+* 1-1/4" screws
