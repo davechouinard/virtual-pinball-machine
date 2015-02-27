@@ -116,9 +116,9 @@ http://virtuapin.net/index.php?main_page=index&cPath=26
 
 
 ### Cabinet
-The Wood:
 
-Cabinet:
+
+**Cabinet**
 * Front panel
 * Back panel
 * Left side panel
@@ -126,7 +126,7 @@ Cabinet:
 * Bottom panel
 * Cross panel rear
 
-Backbox:
+**Backbox**
 * Left panel
 * Right panel
 * Bottom panel
@@ -134,8 +134,7 @@ Backbox:
 * Back panel
 * Front panel
 
-The Hardware:
-
+**Hardware**
 * 4 table legs
 * 4 leg brackets
 * 8 leg bolts
