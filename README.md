@@ -24,6 +24,12 @@ After hooking up a 1080p TV and looking at Preferences->Video Options I noticed 
 
 http://windows.microsoft.com/en-us/windows7/make-the-text-on-your-screen-larger-or-smaller?v=t
 
+***VPinMAME***
+
+As part of the visual pinball software I loaded a version of VPinMAME with SAM support which some Stern tables use.  I had to press F1 when I initially loaded each table and check 'Cabinet Mode' in order to make the DMD stay where I placed it.
+
+http://vpuniverse.com/forums/files/file/2480-vpinmame-sampindmdunity-unified-version/
+
 **PinballX**
 
 PinballX is a pinball menu front end for users to select tables.
