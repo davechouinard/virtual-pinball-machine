@@ -150,8 +150,9 @@ http://virtuapin.net/index.php?main_page=index&cPath=26
 * 1 coin door service buttons
 * 1 playfield glass (tempered)
 * 2 backbox hinges
-* 2 hinge nuts
-* 2 hinge nut recievers
+* 2 hinge nuts for cabinet
+* 2 hinge nut recievers for cabinet
+* 6 nuts and bolts to mount hinges to backbox
 * 1 lock assembly for backbox and cabinet rear
 * 4 felt protectors between cabinet and legs
 * box of #10, #8, #6, 3/4" screws
