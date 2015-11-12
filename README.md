@@ -114,6 +114,15 @@ I decided to put 4 of these into my cabinet.  Two act as the main flipper button
 
 http://virtuapin.net/index.php?main_page=index&cPath=26
 
+**24 Inch Monitor**
+
+The monitor is mounted vertically inside the backbox and used for both the DMD display and the main backbox display.
+
+**40 Inch LED TV**
+
+Mounted vertically and flat inside the cabinet and used for the main playfield display.
+
+Angled forward at about the same amount as the cabinet glass.
 
 ### Cabinet
 
