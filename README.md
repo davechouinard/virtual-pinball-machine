@@ -3,6 +3,8 @@ virtual-pinball-machine
 
 Notes for building a virtual pinball machine running under the Windows 8 operating system.
 
+![virtual pinball machine screenshot](pinball_machine.jpg?raw=true)
+
 ### Software
 
 **Visual Pinball**
